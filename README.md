@@ -1,2 +1,2 @@
 # Projects
-Welcome to my project hub! Here, you'll find a collection of personal and professional projects showcasing my diverse skills and interests.
+Welcome to my Triple Ten project hub! Here, you'll find a collection of completed projects while attending TripleTen.
