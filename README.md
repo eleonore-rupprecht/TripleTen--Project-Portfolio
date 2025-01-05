@@ -2,6 +2,7 @@
 Welcome to my Triple Ten project hub! Here, you'll find a collection of completed projects while attending TripleTen.
 
 |Project number  |	Title                           | 	Description|
+|----------------|----------------------------------|---------------|
 |1               |	Fresh Beats                     |	Status Report to present business recommendations via Word Report based on a Spreadsheet Analysis done by senior team members.|
 |2               | Manhattan Vacation Rental Market |	Market Analysis to consult an anonymous short-term rental company on what types of properties they should be targeting based on Airbnb listings and to present the findings via Spreadsheets.|
 |3	             | Zuber                            |	Demand Analysis Consult for the rideshare company Zuber to understand passenger preferences and the impact of external factors on rides via SQL database.|
