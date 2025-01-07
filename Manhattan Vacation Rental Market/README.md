@@ -7,7 +7,7 @@ This is VERSION 2 of the first project I worked on in the TripleTen Business Int
 | :-----------: | ----------- |----------- |
 | 1 | [Manhattan Vacation Rental Market_Part 1.pdf](https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/Manhattan%20Vacation%20Rental%20Market/Manhattan%20Vacation%20Rental%20Market-Part%201.pdf)
 | 2 | [Manhattan Vacation Rental Market_Part 2.pdf](https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/Manhattan%20Vacation%20Rental%20Market/Manhattan%20Vacation%20Rental%20Market-Part%202.pdf)
-| 3 | [Project Rubric V2.pdf]((https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/Manhattan%20Vacation%20Rental%20Market/Project%20Rubric%20V2.pdf)| A .PDF file with the provided template for grading. |
+| 3 | [Project Rubric V2.pdf](https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/Manhattan%20Vacation%20Rental%20Market/Project%20Rubric%20V2.pdf)| A .PDF file with the provided template for grading. |
 | 4 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
 | 5 | [Requirements.txt](https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/Manhattan%20Vacation%20Rental%20Market/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
