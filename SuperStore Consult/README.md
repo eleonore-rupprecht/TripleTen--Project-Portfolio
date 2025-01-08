@@ -2,7 +2,7 @@
 
 This was my fourth project in the TripleTen Business Intelligence Analytics Program! I worked independently to put my Tableau visualization skills into action. The goal was to step into a consultant's shoes, analyze the store’s operations, and recommend strategies to boost profitability and help the business avoid bankruptcy.
 
-### Link to Tableau Public for Full Tablau Analysis
+### Link to Tableau Public for Full Tableau Analysis
 https://public.tableau.com/app/profile/eleonore.rupprecht/viz/SuperstoreConsult/Sheet1_1#1 
 
 ### Table of Contents for Repository Artifacts
