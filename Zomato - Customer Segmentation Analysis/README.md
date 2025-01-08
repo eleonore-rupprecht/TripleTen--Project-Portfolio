@@ -21,7 +21,7 @@ https://public.tableau.com/app/profile/eleonore.rupprecht/viz/FinalP_17359425642
 | Assumptions | Describes assumptions to include given by TripleTen and assumptions made based on the data and task. |
 | Findings | Insights learned from the data analysis. |
 | Recommendations | Recommended direction for the stakeholders based on final analysis. |
-| Recommendations |
+
 
 #### Description:
 - This was a Customer Segmentation Analysis.
