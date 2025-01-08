@@ -8,9 +8,10 @@ https://public.tableau.com/app/profile/eleonore.rupprecht/viz/SuperstoreConsult/
 ### Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :-----------: | ----------- |----------- |
-| 1 | [Sperstore DataSet.xls](github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/SuperStore%20Consult/Superstore%20Dataset.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
-| 2 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
-| 3 | [Requirements.txt](https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/SuperStore%20Consult/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
+| 1 | [Data_Visualization_Rubric.pdf](https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/SuperStore%20Consult/Data_Visualization_Rubric.pdf) | The original requirements file provided by TripleTen.
+| 2 | [Superstore DataSet.xls](github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/SuperStore%20Consult/Superstore%20Dataset.xls) | The original data file provided by TripleTen that was used in this projects analysis. |
+| 3 | README.md | This current page with all relevant information about the project, just past the Table of contents. |
+| 4 | [Requirements.txt](https://github.com/eleonore-rupprecht/TripleTen--Project-Portfolio/blob/main/SuperStore%20Consult/Requirements.txt) | A simple .txt file with the provided project requirements as provided by TripleTen. |
 
 ### Table of Contents for README
 | Section Title | Description |
